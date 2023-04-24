@@ -1,0 +1,10 @@
+Gabriel Sequeira-Bacher
+Brian Battersby
+CS 330
+March 16th, 2023
+
+2-5 Milestone: Project Proposal
+
+	The images I took feature four different objects, each consisting of relatively uncomplicated shapes. The rubber bouncy ball could be represented with basic sphere scaled to a pretty small size. The embroidery hoop would probably best be created by using a torus of the corresponding size for the hoop. A small, thin cylinder could be attached to one end to represent the clasp of the hoop. One possible way to make this more challenging would be to have the embroidery hoop leaning up against one of the bigger objects such as the lamp, diagonally to the floor. This is not reflected in the original pictures I took but could have been included as an additional challenge. 
+	The two larger objects are both complex as in being composed of several different shapes. I would create the Whataburger milkshake cup by using a tapered cylinder with the end that represents the top unrendered. The lid would be made with a torus and a flat circle created by flattening a cone or other circular shape, and the straw would be a thin cylinder placed into the center of the cup. The mushroom-shaped lamp would simply be made by placing two differently sized tapered cylinders on top of each other, with the smaller of the two being placed on the bottom. 
+	The only 2d object so far is the flat circular plane of the lid of the milkshake cup. The floor itself would be rendered as a large, 2d plane on which all the objects sit. The dresser and hamper also featured in the pictures could be created with the scaling of cube shapes, but are not essential to the scene as a whole.
